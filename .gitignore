@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dev-proxy.config.json
+.wrangler/
+.env.local
+.env.*.local
+gpt-image-config.local.json
+electron/desktop-config.json
+.npm-cache/
+release/
+electron-dist/
+.electron-cache/
+*.unpacked/
